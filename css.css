@@ -7,7 +7,7 @@ canvas {
 	background:black;
 	display: hidden;
 	animation-name:canvas;
-	animation-duration:6s;
+	animation-duration:4s;
 }
 
 @keyframes canvas{
@@ -60,7 +60,7 @@ align:center;
    width:30%;
    height:40%;
     align:center;
-    padding-left:33%;
+    padding-left:46%;
 }
 
 
@@ -74,14 +74,14 @@ align:center;
 
 
 
-h2{
+#h2{
     width:80%;
     height:auto;
-    padding-left:15%;
+    padding-left:48%;
    
 }
 
-h1{
+#h1{
     width:80%;
     height:auto;
     padding-left:50%;
