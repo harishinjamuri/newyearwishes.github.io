@@ -7,7 +7,7 @@ canvas {
 	background:black;
 	display: hidden;
 	animation-name:canvas;
-	animation-duration:10s;
+	animation-duration:6s;
 }
 
 @keyframes canvas{
